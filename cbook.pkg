@@ -1,0 +1,19 @@
+v 3
+d 'CBOOK': A Stata command to create nicely formatted code books based on data set in memory.
+d
+d cbook creates a nicely formatted code book for the data set in memory based on 
+d formatting guidelines preferred by IPA/JPAL.
+d 
+d KW: survey data
+d KW: data management
+d KW: code book
+d 
+d Requires: Stata version 10
+d 
+d Distribution-Date: 20140304
+d 
+d Author: Joe Long, Innovations for Poverty Action
+d Support: email researchsupport@poverty-action.org
+
+f cbook.ado
+f cbook.sthlp

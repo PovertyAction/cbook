@@ -1,0 +1,3 @@
+v 3
+d cbook A Stata command to create nicely formatted code books based on data set in memory.
+p cbook A Stata command to create nicely formatted code books based on data set in memory.
